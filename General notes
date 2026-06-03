@@ -5,3 +5,12 @@ A data scientist can quickly expand the ways that a model can be used rather tha
 
 more details:
 https://www.ibm.com/think/topics/lora
+
+
+
+A tensor is a generalization of scalars, vectors and matrices to higher dimensions. For instance, a color 
+image might be stored as a 3D tensor where height, width and color channels form three separate axes. In deep learning,
+tensors are the standard data structure for feeding information into neural networks.
+
+singular  value decomposition (SVD)
+https://www.geeksforgeeks.org/data-science/singular-value-decomposition-svd/
